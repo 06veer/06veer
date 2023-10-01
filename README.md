@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Veeraditya Sutagatti
 - 👀 I’m interested in Coding    
-- 🌱 I’m currently learning CSE@GIT
+- 🌱 I’m currently learning CSE@KLSGIT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
